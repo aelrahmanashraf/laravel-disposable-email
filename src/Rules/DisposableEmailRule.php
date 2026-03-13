@@ -9,7 +9,7 @@ use EragLaravelDisposableEmail\Services\EmailServices;
 use Illuminate\Contracts\Validation\ValidationRule;
 use Illuminate\Translation\PotentiallyTranslatedString;
 
-final class DisposableEmailRule implements ValidationRule
+class DisposableEmailRule implements ValidationRule
 {
     /**
      * List of unauthorized email providers.
