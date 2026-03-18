@@ -2,7 +2,7 @@
 
 
 <center>
-    <img width="956" alt="Screenshot 2024-10-04 at 10 34 23 PM" src="https://github.com/user-attachments/assets/cd7c0b65-912f-40d7-a9d5-fd44d37f055b">
+    <img width="956" alt="Screenshot 2024-10-04 at 10 34 23 PM" src="https://github.com/user-attachments/assets/6011a887-484f-48a3-8737-de6dfd64e553">
 </center>
 <div align="center">
 
